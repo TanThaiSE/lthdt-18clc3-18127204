@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{CD7DA81B-7319-4079-8367-30DAF226CA35}</ProjectGuid>
+    <ProjectGuid>{EF1E047A-5806-47D9-A0A6-B3BE461C0B7F}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>RectangleV1</RootNamespace>
+    <RootNamespace>TriangleV1</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -152,12 +152,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Point.cpp" />
-    <ClCompile Include="Rectangle.cpp" />
-    <ClCompile Include="RectangleV1.cpp" />
+    <ClCompile Include="Triangle.cpp" />
+    <ClCompile Include="TriangleV1.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Point.h" />
-    <ClInclude Include="Rectangle.h" />
+    <ClInclude Include="Triangle.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
