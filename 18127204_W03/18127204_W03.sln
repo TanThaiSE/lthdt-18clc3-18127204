@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.28803.352
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RectangleV2", "RectangleV2\RectangleV2.vcxproj", "{9D6EB425-5E19-4F71-9543-719F2E9E360C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TriangleV2", "TriangleV2\TriangleV2.vcxproj", "{4BA2620D-7AD5-4396-9936-C93CDE1883CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{9D6EB425-5E19-4F71-9543-719F2E9E360C}.Release|x64.Build.0 = Release|x64
 		{9D6EB425-5E19-4F71-9543-719F2E9E360C}.Release|x86.ActiveCfg = Release|Win32
 		{9D6EB425-5E19-4F71-9543-719F2E9E360C}.Release|x86.Build.0 = Release|Win32
+		{4BA2620D-7AD5-4396-9936-C93CDE1883CE}.Debug|x64.ActiveCfg = Debug|x64
+		{4BA2620D-7AD5-4396-9936-C93CDE1883CE}.Debug|x64.Build.0 = Debug|x64
+		{4BA2620D-7AD5-4396-9936-C93CDE1883CE}.Debug|x86.ActiveCfg = Debug|Win32
+		{4BA2620D-7AD5-4396-9936-C93CDE1883CE}.Debug|x86.Build.0 = Debug|Win32
+		{4BA2620D-7AD5-4396-9936-C93CDE1883CE}.Release|x64.ActiveCfg = Release|x64
+		{4BA2620D-7AD5-4396-9936-C93CDE1883CE}.Release|x64.Build.0 = Release|x64
+		{4BA2620D-7AD5-4396-9936-C93CDE1883CE}.Release|x86.ActiveCfg = Release|Win32
+		{4BA2620D-7AD5-4396-9936-C93CDE1883CE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
